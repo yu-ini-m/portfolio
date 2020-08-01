@@ -1,0 +1,125 @@
+body{
+    background: radial-gradient(rgb(173, 229, 255),#0f1c68);
+    width: 100%;
+}
+
+.result{
+    background:radial-gradient(white,rgb(194, 217, 238));
+    border-radius: 20%;
+    width:400px;
+    height:30%;
+    padding:30px 30px;
+    margin:10px;
+    box-shadow: 2px 2px 4px -2px gray;
+    display: inline-block;
+ 
+}
+
+.image{
+    max-width: 100%;
+    text-align: center;
+    padding: 20px;
+   
+}
+
+.t-page{
+    text-align: center;
+    
+    
+}
+
+.t-page button{
+    border-radius: 10%;
+    padding:5px 10px;
+    background-color:  rgba(30, 18, 53, 0.788);
+    color:white;
+}
+
+.t-page:hover{
+    opacity: 0.75 ;
+}
+.p-top{
+    text-align: center;
+    
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+}
+
+.p-top button{
+    border-radius: 50%;
+    display: block;
+    text-decoration: none;
+    padding:10px 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.589);
+    
+}
+
+.p-top:hover{
+    opacity: 0.75 ;
+}
+
+#box{
+    text-align: center;
+}
+
+header{
+    position: fixed;
+    width: 100%;
+    z-index:9999;
+}
+
+#photo{
+    margin-left: 10%;
+    width:80%;
+}
+
+#island{
+    color:white;
+    font-size: 70px;
+    font-family: 'HG正楷書体-PRO', cursive;
+    text-align: center;
+    text-shadow: 10px 5px 3px rgba(144, 199, 247, 0.733);
+}
+
+a{
+    color:white;
+}
+
+a:hover{
+    color:rgba(255, 255, 255, 0.76);
+}
+
+.title1{
+    color:white;
+    font-family: 'HG正楷書体-PRO', cursive;
+    margin:10px;   
+}
+
+.access{
+    display: inline-block;
+    color: white;
+    font-family: 'HG正楷書体-PRO', cursive;
+    margin-left:10px;
+}
+
+
+.text1{
+    background:radial-gradient(white,rgb(194, 217, 238));
+    border-radius: 3%;
+    width:90%;
+    height:auto;
+    margin:20px;
+    padding:30px 30px;
+    box-shadow: 2px 2px 4px -2px gray;
+}
+
+#all{
+    margin-left:20px;
+}
+
+.title1 h1{
+    text-align: center;
+    text-shadow: 5px 5px 3px rgba(39, 53, 66, 0.733);
+}

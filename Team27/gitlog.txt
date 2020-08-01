@@ -1,0 +1,395 @@
+﻿commit eff0541e92fa6928c877ea0424f499cbd964da13
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 19:50:00 2019 +0900
+
+    js修正
+
+
+commit e068c523762c921a9e525a5fc4bb2ba9dcf7d5b2
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 17:38:56 2019 +0900
+
+    いらないものを削除
+
+
+commit 94397cc4fbe591e0f468b01d628d4cbfae9bcb0a
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 17:33:09 2019 +0900
+
+    スライダー画像追加
+
+
+commit debf90611ac1ddf7ff825d17bb8012e7030e53bd
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 17:24:30 2019 +0900
+
+    石垣島２
+    
+    これで改行や強調の作業は終了。
+
+
+commit 6c1b0c907c3b7ac309131d567beb5d67093de85c
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 17:15:25 2019 +0900
+
+    石垣島１
+
+
+commit 46ca2ad3489051a91d8cd4f9ea29fc948fe45f9c
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 17:01:38 2019 +0900
+
+    西表島
+
+
+commit 2266c7b9662fc861539265dbaae4d0007ca0c94f
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 16:54:47 2019 +0900
+
+    map修正
+
+
+commit 5f561af5899fca520f735530fd4ebb18f3713cf9
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 16:51:14 2019 +0900
+
+    デザイン修正
+    
+    class振り分け
+
+
+commit 60ee9a719970380e81fb5c8dac290dd03331c8f1
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 16:34:38 2019 +0900
+
+    削除
+
+
+commit ec70c51c129dd019c6a204004bd47741b7a97fd5
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 16:33:33 2019 +0900
+
+    微調整
+
+
+commit 05d4aa515ffdb3a5c3b716f89b38f16f2007452e
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 15:49:43 2019 +0900
+
+    culture
+
+
+commit 0f712e147223d9feb54fc2ec365dd144b1e64694
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 15:43:20 2019 +0900
+
+    map
+   島のあたりをクリックすると該当エリアトップに飛びます。
+
+
+commit 637423da7fa4db4cdf44bd3401eea1ba4a163dea
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Fri Jul 26 13:42:45 2019 +0900
+
+    map途中経過
+
+
+commit 8d36ef06ac8532b92dc3e43e9e82b82ebac2e994
+Merge: bc53431 fd8a659
+Author: Yohei Fujii <s1f101802599@iniad.org>
+Date:   Thu Jul 25 17:58:44 2019 +0900
+
+    q
+    
+    q
+
+
+commit fd8a65935826291d7d3a12d1ab9c14ea250d120d
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Thu Jul 25 15:48:03 2019 +0900
+
+    Foodページ
+    
+    ほぼ完成
+    ＋微調整
+
+
+commit 4c09ab0f2d5c147f6f41d69dc665af9a231ae245
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Thu Jul 25 15:24:04 2019 +0900
+
+    accessページ
+    
+    これでほぼ完成。
+
+
+commit 9f0b049d11ec49be0eee047e194365989b7d7011
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Thu Jul 25 12:13:59 2019 +0900
+
+    微調整
+
+
+commit 073ebc26487d3fe35109574f90a591e82ae24764
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Thu Jul 25 11:57:28 2019 +0900
+
+    タイトル修正
+
+
+commit 3c013c14ca478e0844a6654f3175e4d07c978185
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Thu Jul 25 11:30:01 2019 +0900
+
+    修正
+    
+    header項目追加
+    ボタンデザイン修正
+
+
+commit 3d1a92b1341fc6cd9da1337fce74ed74edb5d85e
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Wed Jul 24 12:38:00 2019 +0900
+
+    ボタンデザイン修正
+
+
+commit 3d58d25f79c05bb4f684b2624055108ba13a1d06
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Tue Jul 23 11:22:06 2019 +0900
+
+    ボタンの追加
+    
+    右下にページ上部へ戻るボタンを設置
+
+
+commit b621579952ff3ac3faface262ff1b5fbeeca21f1
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Tue Jul 23 11:01:29 2019 +0900
+
+    名称変更
+    
+    ヘッダー修正
+
+
+commit 7c6012f81c1f16067f8736aa09a9bd3c7661abe8
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 22:05:23 2019 +0900
+
+    細部修正
+
+
+commit 612156901e44fc88c2ed549d10e903524440b421
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 22:02:20 2019 +0900
+
+    細部修正
+
+
+commit 46711b6794541c1cdc3ff72cb7e2b20004ea5361
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 21:59:07 2019 +0900
+
+    位置調整
+
+
+commit e8b0e11b4f6f200446df1334a6d17db3d9191494
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 21:48:37 2019 +0900
+
+    ヘッダー固定
+
+
+commit f98269c0ba9253bb8db50ab466bbfcc24527c6a0
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 21:31:22 2019 +0900
+
+    トップページ修正
+    
+トップページにスライドショーを追加
+
+
+commit 6796bcdadb260c304cf8f1ef962716c2e7366f50
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 20:59:28 2019 +0900
+
+    タイトル修正
+
+
+commit 64ad0cbb2cd4f015a7372e5dd0f2f0cff4fee4ec
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 18:04:06 2019 +0900
+
+    ファイル移動
+
+
+commit bc534314b7e6fda463b34dca5e701f5ce2f976e9
+Merge: 25e70b6 f54b5f5
+Author: Yohei Fujii <s1f101802599@iniad.org>
+Date:   Mon Jul 22 17:59:16 2019 +0900
+
+    
+Merge branch 'master' of https://gitlab.com/s1f101802601/tourism-site
+
+
+commit 25e70b69af69cb88747e424240c51f62f328a929
+Author: Yohei Fujii <s1f101802599@iniad.org>
+Date:   Mon Jul 22 17:59:01 2019 +0900
+
+    a
+    
+    a
+
+
+commit f54b5f5ccb93e09988be6d41970eaddd16fc4934
+Merge: d91a826 1392191
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 17:56:57 2019 +0900
+
+    
+Merge branch 'master' of https://gitlab.com/s1f101802601/tourism-site
+
+
+commit d91a8265c1fd3641236efcf788b74594f238f6c2
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 17:56:29 2019 +0900
+
+    トップページ等修正
+
+
+commit 1392191fe03ee038a7ad8ba6df7fadcd8889b1b3
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 17:56:16 2019 +0900
+
+    3
+
+
+commit a5c7ca63e1933aa825a022771076a5d35121b950
+Merge: 1f12227 89e5f44
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 17:50:56 2019 +0900
+
+    
+Merge branch 'master' of https://gitlab.com/s1f101802601/tourism-site
+
+
+commit 1f1222732e7e97fb2e0f46d47a66e88aa7f32856
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 17:50:22 2019 +0900
+
+    photo2
+
+
+commit 89e5f44a621bad8c53617feeecf070b0f1aa6936
+Merge: 6ad4734 269ee2e
+Author: Yohei Fujii <s1f101802599@iniad.org>
+Date:   Mon Jul 22 17:50:12 2019 +0900
+
+    
+Merge branch 'master' of https://gitlab.com/s1f101802601/tourism-site
+
+
+commit 6ad47345074aedeccfe22515f3f3c24e1daf78dd
+Author: Yohei Fujii <s1f101802599@iniad.org>
+Date:   Mon Jul 22 17:49:16 2019 +0900
+
+    a
+    
+    a
+
+
+commit 269ee2e4548a7f69cbab7ac9da34b9f81d31a062
+Merge: 4aa892b 64f4f25
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 17:39:41 2019 +0900
+
+    
+Merge branch 'master' of https://gitlab.com/s1f101802601/tourism-site
+
+
+commit 4aa892b5c88f9e7d0af54ea5c105425de632c7b5
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 17:39:20 2019 +0900
+
+    photo
+
+
+commit 64f4f25215432b1c8b4ae2f7498e1d65d4a7478d
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 17:35:21 2019 +0900
+
+    天気表示デザイン
+
+
+commit 9ab85778e4c8d8b6b01425858911e945aea3d554
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 17:17:13 2019 +0900
+
+    修正
+
+
+commit 70f5757e76449634f68440f913116ac83fb1d4f8
+Merge: ffa372b 3b5d75b
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 17:07:34 2019 +0900
+
+    
+Merge branch 'master' of https://gitlab.com/s1f101802601/tourism-site
+
+
+commit 3b5d75b6462ce18746b720b9a684efab2b9ea1e5
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 17:06:18 2019 +0900
+
+    天気API
+
+
+commit ffa372b08d08c8068ade1325be6a91bdb586f1f5
+Author: Taishi Mizuno <s1f101803411@iniad.org>
+Date:   Mon Jul 22 16:56:10 2019 +0900
+
+    西表島
+
+
+commit d6d258ce473d9c14760a9eec55964f5891951c63
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 16:42:50 2019 +0900
+
+    天気（仮）
+
+
+commit 024a342b4d9254086ed87ce445a0e2369c7f43bd
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 15:48:24 2019 +0900
+
+    topリンク + 修正
+
+
+commit 2a675654d03138ff64f73575b2a5ff29bac95fd7
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 14:47:23 2019 +0900
+
+    ajax + 修正
+
+
+commit 7ff7b52b66082ab51adf4e930047912299252d64
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 14:28:25 2019 +0900
+
+    天気の追加（仮）
+
+
+commit 691209303f844afab0d5909a191a74aeedddc832
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Mon Jul 22 13:40:02 2019 +0900
+
+    ヘッダー修正
+
+
+commit 3c153b8327ae74be4620ff0a7f6393aca5094053
+Author: Yuri Maeda <s1f101802601@iniad.org>
+Date:   Sun Jul 21 22:04:59 2019 +0900
+
+    外枠
+    
+    ヘッダーおよびページの仮置き
