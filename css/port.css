@@ -95,7 +95,6 @@ footer{
 }
 .title{
     font-family:Monotype Corsiva;
-    font-size: 70px;
     margin-right: 50px;
 }
 .lit{
@@ -182,7 +181,7 @@ height: 50px;
 }
 #top a{
     color:black;
-    font-size: 130px;
+    font-size: 110px;
     padding:50px;
 }
 #top a:hover{
