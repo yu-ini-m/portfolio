@@ -195,7 +195,9 @@ padding: 30px 0;
 margin-bottom: 20px;
 border-radius: 1%;
 }
-
+.two{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 @media (max-width: 600px) {
   
