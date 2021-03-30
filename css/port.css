@@ -155,11 +155,14 @@ footer{
     padding-top: 0;
     font-size: 20px;
 }
-.ad img, .long img{
+.ad img{
 height: 50px;
 }
 .ad{
     font-size: large;
+}
+.pp{
+    padding:0 5%;
 }
 .n-box{
     border-radius: 1%;
