@@ -155,7 +155,7 @@ footer{
     padding-top: 0;
     font-size: 20px;
 }
-.ad img{
+.ad img, .long img{
 height: 50px;
 }
 .ad{
