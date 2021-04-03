@@ -12,6 +12,23 @@
 
     <script type="text/javascript" src="js/port.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+
+     <script>
+         $(function () {
+             var headerHight = 130;
+             $('a[href^=#]').click(function () {
+                 var speed = 400; 
+                 var href = $(this).attr("href");
+                 var target = $(href == "#" || href == "" ? 'html' : href);
+                 var position = target.offset().top - headerHight;
+                 $('body,html').animate({
+                     scrollTop: position
+                 }, speed, 'swing');
+                 return false;
+             });
+         });
+     </script>
 </head>
 
 <body class="fix">
@@ -28,6 +45,31 @@
         </span>
     </header>
 
+       <div class="contents"></div>
+    <div class="cp_snslink03">
+        <ul class="cp_link_list">
+            <li class="cp_link" id="index_list">目次</li>
+            <a href="#">
+                <li class="cp_link">My Skills</li>
+            </a>
+            <a href="#sec1">
+                <li class="cp_link">Info graphics</li>
+            </a>
+            <a href="#sec2">
+                <li class="cp_link">Product</li>
+            </a>
+            <a href="#sec3">
+                <li class="cp_link">UI Design</li>
+            </a>
+            <a href="#sec4">
+                <li class="cp_link">Others</li>
+            </a>
+            <a href="#sec5">
+                <li class="cp_link">Practice</li>
+            </a>
+        </ul>
+    </div>
+    
     <div class="b-box">
         <b class="title two">My skills 　-Graphic-</b><br>
 
@@ -46,7 +88,7 @@
     </div>
 
     <div class="bg">
-        <b class="title lit">Info graphics</b>
+        <b class="title lit" id="sec1">Info graphics</b>
         <hr class="red">
         <div class="flex ad pp">
             使用ツール：<img src="img/ai.JPG">
@@ -81,7 +123,7 @@
         </div>
 
         <br>
-        <b class="title lit">Product</b>
+        <b class="title lit" id="sec2">Product</b>
         <hr class="red">
         <div class="flex ad pp">
             使用ツール：<img src="img/ai.JPG"></div>
@@ -128,7 +170,7 @@
         </div>
 
         <br>
-        <b class="title lit">UI Design</b>
+        <b class="title lit" id="sec3">UI Design</b>
         <hr class="red">
         <div class="flex ad pp">
             使用ツール：<img src="img/ai.JPG"><img src="img/xd.JPG"></div>
@@ -144,7 +186,7 @@
         </div>
 
         <br>
-        <b class="title lit">Others</b>
+        <b class="title lit" id="sec4">Others</b>
         <hr class="red">
         <div class="flex ad pp">
             使用ツール：<img src="img/ai.JPG"></div>
@@ -169,7 +211,7 @@
             </div>
         </div>
         <br> <br>
-        <b class="title lit">Practice</b>
+        <b class="title lit" id="sec5">Practice</b>
         <hr class="red">
         <p class="Lti">Illustratorの練習</p>
         <div class="cont flex">
