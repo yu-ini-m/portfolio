@@ -93,8 +93,8 @@ hr{
     	margin-top:-10px;
     	margin-bottom: 20px;
 	border-color:black;
-	background-image: -webkit-linear-gradient(left,	transparent 0%,red 50%,transparent 100%);
-	background-image: linear-gradient(90deg, transparent 0%,red 50%,transparent 100%);
+	background-image: -webkit-linear-gradient(left,	transparent 0%,black 50%,transparent 100%);
+	background-image: linear-gradient(90deg, transparent 0%,black 50%,transparent 100%);
 }
 footer{
     background-color: black;
