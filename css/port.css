@@ -87,6 +87,9 @@ hr{
     border-color:red;
     background-image: -webkit-linear-gradient(left,	transparent 0%,red 50%,transparent 100%);
 	background-image: linear-gradient(90deg, transparent 0%,red 50%,transparent 100%);
+} 
+.black{
+	border-color:black;
 }
 footer{
     background-color: black;
